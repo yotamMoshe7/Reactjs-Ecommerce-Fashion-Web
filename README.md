@@ -1,4 +1,4 @@
-# ecommerce-fashion-web
+# Ecommerce-Fashion-Web
 Website for online trade in fashion products using Redux.
 
 Functionality:
